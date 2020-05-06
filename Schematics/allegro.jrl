@@ -1,0 +1,283 @@
+\t (00:00:02) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:02) 
+
+\t (00:00:03) Opening existing drawing...
+\w (00:00:04) WARNING(SPMHDB-214): OrCAD PCB Designer opening an Allegro Expert design.
+\w (00:00:04) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:04) WARNING(SPMHOD-33): Database was last saved by a higher tier tool ... Allegro Expert. There may be constraints, rules and other design data that may be ignored in this tool.
+\i (00:00:06) fillin confirm
+\d (00:00:06) Database opened: f:/project/touch senses/schematics/touch_pcb.brd
+\i (00:00:07) trapsize 868
+\i (00:00:07) trapsize 842
+\i (00:00:07) trapsize 832
+\i (00:00:07) trapsize 703
+\i (00:00:07) trapsize 703
+\i (00:00:08) etchedit 
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 16806.81 6255.80
+\i (00:00:09) trapsize 1405
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 16123.83 6390.71
+\i (00:00:11) trapsize 703
+\i (00:00:16) add connect 
+\t (00:00:16) Pick first element.
+\i (00:00:19) setwindow form.mini
+\i (00:00:19) FORM mini active_subclass BOTTOM 
+\t (00:00:19) Pick first element.
+\i (00:00:20) setwindow pcb
+\i (00:00:20) pick grid 16428.78 6380.88
+\t (00:00:20) last pick:  16429.00  6381.00
+\t (00:00:20) last pick:  16412.00  6387.80
+\t (00:00:20) Target Symbol Pin is defined on TOP.
+\t (00:00:20) last pick:  16412.00  6387.80
+\i (00:00:24) prepopup 16643.79 6413.20
+\i (00:00:25) oops 
+\t (00:00:25) last pick:  16412.00  6387.80
+\t (00:00:25) Pick first element.
+\i (00:00:27) pick grid 16421.75 6387.91
+\t (00:00:27) last pick:  16422.00  6388.00
+\t (00:00:27) last pick:  16412.00  6387.80
+\t (00:00:27) Target Symbol Pin is defined on TOP.
+\t (00:00:27) last pick:  16412.00  6387.80
+\i (00:00:34) prepopup 16292.46 6345.75
+\i (00:00:37) pick grid 16291.06 6347.15
+\t (00:00:37) last pick:  16291.00  6347.00
+\t (00:00:37) No DRC errors detected.
+\i (00:00:40) prepopup 16293.87 6352.77
+\i (00:00:41) pop bbdrill 
+\t (00:00:41) VIA used for drill.
+\t (00:00:41) No DRC errors detected.
+\i (00:00:47) roam x 96 
+\i (00:00:47) roam x 96
+\i (00:00:48) roam x 96 
+\i (00:00:48) roam x 96
+\i (00:00:48) roam x 96 
+\i (00:00:48) roam x 96
+\i (00:00:52) pick grid 17233.11 6449.74
+\t (00:00:52) last pick:  17233.00  6450.00
+\t (00:00:52) No DRC errors detected.
+\i (00:00:53) prepopup 17233.11 6449.74
+\i (00:00:54) pop bbdrill 
+\t (00:00:54) VIA used for drill.
+\t (00:00:54) No DRC errors detected.
+\i (00:00:54) mouse_pos 17238.73 6508.76
+\i (00:00:54) mouse_pos 17244.35 6520.00
+\i (00:00:54) mouse_pos 17257.00 6524.22
+\i (00:00:54) mouse_pos 17282.29 6539.68
+\i (00:00:54) mouse_pos 17283.70 6543.89
+\i (00:00:54) mouse_pos 17275.27 6543.89
+\i (00:00:54) mouse_pos 17254.19 6543.89
+\i (00:00:56) pick grid 17227.49 6538.27
+\t (00:00:56) last pick:  17227.00  6538.00
+\t (00:00:56) No DRC errors detected.
+\t (00:00:56) Pick first element.
+\i (00:00:56) pick grid dbl 17227.49 6538.27
+\t (00:00:56) last pick:  17227.00  6538.00
+\t (00:00:56) Pick first element.
+\t (00:00:56) last pick:  17237.40  6534.40
+\t (00:00:56) last pick:  17237.40  6534.40
+\i (00:00:56) prepopup 17265.43 6504.54
+\i (00:01:01) done 
+\i (00:01:01) etchedit 
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 17311.80 6272.67
+\i (00:01:02) trapsize 1405
+\i (00:01:06) roam y 96 
+\i (00:01:06) roam y 96
+\i (00:01:06) roam y 96 
+\i (00:01:06) roam y 96
+\i (00:01:07) roam y -96 
+\i (00:01:07) roam y -96
+\i (00:01:07) roam y -96 
+\i (00:01:07) roam y -96
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 17311.81 6270.43
+\i (00:01:08) trapsize 703
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 17311.81 6270.43
+\i (00:01:08) trapsize 351
+\i (00:01:09) roam y -96 
+\i (00:01:09) roam y -96
+\i (00:01:09) roam y -96 
+\i (00:01:09) roam y -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:10) zoom out 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom out 17244.35 6405.33
+\i (00:01:10) trapsize 703
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:11) save 
+\f (00:01:11) f:/project/touch senses/schematics/touch_pcb.brd: File Exists. Overwrite? 
+\i (00:01:12) fillin yes 
+\i (00:01:12) etchedit 
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 16834.01 6217.02
+\i (00:01:13) trapsize 1405
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 16834.01 6217.02
+\i (00:01:13) trapsize 2811
+\i (00:01:14) roam y 96 
+\i (00:01:14) roam y 96
+\i (00:01:14) roam y 96 
+\i (00:01:14) roam y 96
+\i (00:01:14) zoom in 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom in 16429.29 5244.57
+\i (00:01:14) trapsize 1405
+\i (00:01:15) roam y -96 
+\i (00:01:15) roam y -96
+\i (00:01:15) roam y -96 
+\i (00:01:15) roam y -96
+\i (00:01:15) roam y -96 
+\i (00:01:15) roam y -96
+\i (00:01:23) shape global param 
+\i (00:01:23) etchedit 
+\i (00:01:25) setwindow form.dyn_xshape
+\i (00:01:25) FORM dyn_xshape void_controls  
+\i (00:01:25) FORM dyn_xshape clearances  
+\i (00:01:25) FORM dyn_xshape thermal_relief_connects  
+\i (00:01:27) FORM dyn_xshape clearances  
+\i (00:01:28) FORM dyn_xshape thermal_relief_connects  
+\i (00:01:29) FORM dyn_xshape cancel  
+\i (00:01:31) setwindow pcb
+\i (00:01:31) shape add rect 
+\i (00:01:35) setwindow form.mini
+\i (00:01:35) FORM mini dyns_netname_list  
+\f (00:01:35) Select a net.
+\i (00:01:37) fillin "Gnd"
+\t (00:01:37) Assigning selected shape to net: GND
+\i (00:01:39) setwindow pcb
+\i (00:01:39) roam y 96 
+\i (00:01:39) roam y 96
+\i (00:01:40) roam y -96 
+\i (00:01:40) roam y -96
+\i (00:01:42) pick grid 15375.31 6874.72
+\t (00:01:42) last pick:  15375.00  6875.00
+\i (00:01:42) roam y 96 
+\i (00:01:42) roam y 96
+\i (00:01:42) roam y 96 
+\i (00:01:42) roam y 96
+\i (00:01:43) roam y 96 
+\i (00:01:43) roam y 96
+\i (00:01:43) roam y 96 
+\i (00:01:43) roam y 96
+\i (00:01:44) pick grid 17682.81 4671.21
+\t (00:01:44) last pick:  17683.00  4671.00
+\i (00:01:45) roam y -96 
+\i (00:01:45) roam y -96
+\i (00:01:45) roam y -96 
+\i (00:01:45) roam y -96
+\i (00:01:45) roam y -96 
+\i (00:01:45) roam y -96
+\i (00:01:45) roam y -96 
+\i (00:01:45) roam y -96
+\i (00:01:49) island_delete 
+\t (00:01:49) To delete, pick highlighted islands(s) or navigate using Options panel.
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 15386.56 6607.71
+\i (00:01:50) trapsize 2811
+\i (00:01:50) drag_start grid 14779.47 7057.40
+\i (00:01:50) roam y 16
+\i (00:01:50) roam y 16
+\i (00:01:50) roam y 16
+\i (00:01:50) drag_stop
+\e (00:01:51) Command not found: Del
+\i (00:01:53) delete 
+\i (00:01:54) drag_start grid 14700.77 6981.52
+\i (00:01:54) drag_stop 19203.34 4586.89
+\i (00:01:55) pick grid 18382.65 5564.98
+\t (00:01:55) last pick:  18383.00  5565.00
+\i (00:01:57) undo 
+\i (00:01:57) trapsize 2811
+\i (00:01:57) etchedit 
+\i (00:02:00) island_delete 
+\t (00:02:00) To delete, pick highlighted islands(s) or navigate using Options panel.
+\i (00:02:00) drag_start grid 14953.72 6953.41
+\i (00:02:01) drag_stop 18776.13 4496.95
+\i (00:02:02) delete 
+\i (00:02:03) prepopup 14773.84 6413.78
+\i (00:02:04) done 
+\i (00:02:04) etchedit 
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 16701.91 6301.35
+\i (00:02:05) trapsize 1405
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in 16701.92 6301.36
+\i (00:02:05) trapsize 703
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 16700.52 6298.55
+\i (00:02:06) trapsize 1405
+\i (00:02:06) roam x -96 
+\i (00:02:06) roam x -96
+\i (00:02:06) roam x -96 
+\i (00:02:06) roam x -96
+\i (00:02:07) roam y -96 
+\i (00:02:07) roam y -96
+\i (00:02:07) roam y -96 
+\i (00:02:07) roam y -96
+\i (00:02:07) roam y 96 
+\i (00:02:07) roam y 96
+\i (00:02:08) roam y 96 
+\i (00:02:08) roam y 96
+\i (00:02:08) roam y 96 
+\i (00:02:08) roam y 96
+\i (00:02:08) roam y 96 
+\i (00:02:08) roam y 96
+\i (00:02:09) roam y -96 
+\i (00:02:09) roam y -96
+\i (00:02:09) roam y -96 
+\i (00:02:09) roam y -96
+\i (00:02:09) roam y -96 
+\i (00:02:09) roam y -96
+\i (00:02:09) roam y -96 
+\i (00:02:09) roam y -96
+\i (00:02:13) roam y 96 
+\i (00:02:13) roam y 96
+\i (00:02:13) roam y 96 
+\i (00:02:13) roam y 96
+\i (00:02:14) roam y 96 
+\i (00:02:14) roam y 96
+\i (00:02:15) zoom out 1 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 18108.66 5817.93
+\i (00:02:15) trapsize 2811
+\i (00:02:15) roam x 96 
+\i (00:02:15) roam x 96
+\i (00:02:15) roam x 96 
+\i (00:02:15) roam x 96
+\i (00:02:16) roam x 96 
+\i (00:02:16) roam x 96
+\i (00:02:16) roam y -96 
+\i (00:02:16) roam y -96
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in 17285.15 6003.43
+\i (00:02:17) trapsize 1405
+\i (00:02:18) roam x -96 
+\i (00:02:18) roam x -96
+\i (00:02:18) roam y -96 
+\i (00:02:18) roam y -96
+\i (00:02:18) roam y -96 
+\i (00:02:18) roam y -96
+\i (00:02:18) roam y 96 
+\i (00:02:18) roam y 96
+\i (00:02:19) roam y 96 
+\i (00:02:19) roam y 96
+\i (00:02:19) save 
+\f (00:02:19) f:/project/touch senses/schematics/touch_pcb.brd: File Exists. Overwrite? 
+\i (00:02:20) fillin yes 
+\i (00:02:20) etchedit 
+\i (00:02:21) exit 

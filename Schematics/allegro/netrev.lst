@@ -1,0 +1,91 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Netrev Allegro Import Logic                                      )
+(                                                                     )
+(    Drawing          : touch_pcb.brd                                 )
+(    Software Version : 16.3p004                                      )
+(    Date/Time        : Thu Apr 02 05:44:03 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'f:\project\touch senses\schematics\allegro';
+BOARD_DIRECTORY 'f:/project/touch senses/schematics';
+OLD_BOARD_NAME 'F:/Project/Touch senses/Schematics/touch_pcb.brd';
+NEW_BOARD_NAME 'f:/project/touch senses/schematics/touch_pcb.brd';
+
+CmdLine: netrev.exe -5 -y 1 -i f:\project\touch senses\schematics\allegro F:\Project\Touch senses\Schematics\touch_pcb.brd f:\project\touch senses\schematics\touch_pcb.brd
+
+------ Preparing to read pst files ------
+
+Starting to read f:/project/touch senses/schematics/allegro/pstchip.dat 
+   Finished reading f:/project/touch senses/schematics/allegro/pstchip.dat (00:00:00.08)
+Starting to read f:/project/touch senses/schematics/allegro/pstxprt.dat 
+   Finished reading f:/project/touch senses/schematics/allegro/pstxprt.dat (00:00:00.00)
+Starting to read f:/project/touch senses/schematics/allegro/pstxnet.dat 
+   Finished reading f:/project/touch senses/schematics/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.3/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.3/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           F:\Resources\Orcad Lib\PCB Lib\ 
+           C:\PSL\Library\PCB_Editor\footprints\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.3/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           F:\Resources\Orcad Lib\Pad\ 
+           C:\PSL\Library\PCB_Editor\padstacks\ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Apr 2 5:44:03 2015
+   DESIGN NAME : 'STM32F0_TOUCH'
+   PACKAGING ON Nov 17 2009 03:09:43
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:29
+elapsed time  0:00:01
+

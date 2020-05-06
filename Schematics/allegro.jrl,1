@@ -1,0 +1,87 @@
+\t (00:00:56) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:56) 
+
+\t (00:00:57) Opening existing drawing...
+\d (00:00:57) Database opened: F:/Project/Touch senses/Schematics/touch_pcb.brd
+\i (00:00:58) trapsize 1465
+\i (00:00:58) trapsize 1421
+\i (00:00:58) trapsize 1403
+\i (00:00:58) trapsize 1186
+\i (00:00:58) trapsize 1186
+\i (00:00:58) etchedit 
+\i (00:12:48) roam y -96 
+\i (00:12:48) roam y -96
+\i (00:12:48) roam y -96 
+\i (00:12:48) roam y -96
+\i (00:12:48) roam y -96 
+\i (00:12:48) roam y -96
+\i (00:12:49) roam y 96 
+\i (00:12:49) roam y 96
+\i (00:18:09) roam y 96 
+\i (00:18:09) roam y 96
+\i (00:18:09) roam y 96 
+\i (00:18:09) roam y 96
+\i (00:18:09) roam x -96 
+\i (00:18:09) roam x -96
+\i (00:18:10) roam x -96 
+\i (00:18:10) roam x -96
+\i (00:18:10) roam y -96 
+\i (00:18:10) roam y -96
+\i (01:16:43) xhilite 
+\i (01:16:44) xNet Vcc 
+\i (01:16:44) xname_flush 
+\i (01:16:44) trapsize 703
+\t (01:16:44) Net "Vcc" highlighted.
+\i (01:16:44) done 
+\i (01:16:44) etchedit 
+\i (01:16:47) xdehilite 
+\i (01:16:47) xNet Vcc 
+\i (01:16:47) xname_flush 
+\t (01:16:47) Net "Vcc" dehighlighted.
+\i (01:16:47) done 
+\i (01:16:47) etchedit 
+\i (01:16:51) xhilite 
+\i (01:16:51) xNet N00854 
+\i (01:16:51) xname_flush 
+\i (01:16:51) trapsize 608
+\t (01:16:51) Net "N00854" highlighted.
+\i (01:16:51) done 
+\i (01:16:51) etchedit 
+\i (01:16:52) xdehilite 
+\i (01:16:52) xNet N00854 
+\i (01:16:52) xname_flush 
+\t (01:16:52) Net "N00854" dehighlighted.
+\i (01:16:52) done 
+\i (01:16:52) etchedit 
+\i (01:16:54) xhilite 
+\i (01:16:54) xNet Vcc 
+\i (01:16:54) xname_flush 
+\i (01:16:54) trapsize 703
+\t (01:16:54) Net "Vcc" highlighted.
+\i (01:16:54) done 
+\i (01:16:54) etchedit 
+\i (01:16:54) xdehilite 
+\i (01:16:54) xNet Vcc 
+\i (01:16:54) xname_flush 
+\t (01:16:54) Net "Vcc" dehighlighted.
+\i (01:16:54) done 
+\i (01:16:54) etchedit 
+\i (01:17:02) zoom out 1 
+\i (01:17:02) setwindow pcb
+\i (01:17:02) zoom out 16882.68 6452.53
+\i (01:17:02) trapsize 1405
+\i (01:17:02) zoom out 1 
+\i (01:17:02) setwindow pcb
+\i (01:17:02) zoom out 16882.68 6452.54
+\i (01:17:02) trapsize 2811
+\i (01:17:02) zoom in 1 
+\i (01:17:02) setwindow pcb
+\i (01:17:02) zoom in 16640.97 6165.86
+\i (01:17:02) trapsize 1405
+\i (01:17:03) zoom in 1 
+\i (01:17:03) setwindow pcb
+\i (01:17:03) zoom in 16640.98 6171.48
+\i (01:17:03) trapsize 703
+\i (01:28:17) exit 
+\f (01:28:17) Do you want to save the changes you made to touch_pcb.brd?
+\i (01:28:19) fillin yes 

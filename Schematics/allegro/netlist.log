@@ -1,0 +1,17 @@
+{ Using PSTWRITER 16.3.0 p002Apr-02-2015 at 05:44:01 }
+
+#1 Warning [ALG0047] "No_connect" property on Pin "U1.11" ignored for U1: SCHEMATIC1, PAGE1 (3.50, 1.00). Connecting pin to net "PA5".
+#2 Warning [ALG0047] "No_connect" property on Pin "U1.12" ignored for U1: SCHEMATIC1, PAGE1 (3.50, 1.00). Connecting pin to net "PA6".
+#3 Warning [ALG0016] Part Name "SW PUSHBUTTON-SPST-2_BUTTON_PUSH_6X6_SW PUSHBUTTON-SPST-2" is renamed to "SW PUSHBUTTON-SPST-2_BUTTON_PUS".
+#4 Warning [ALG0016] Part Name "TOUCH_PAD_CIR_TOUCH_CIR_TOUCH_PAD_CIR" is renamed to "TOUCH_PAD_CIR_TOUCH_CIR_TOUCH_P".
+#5 Warning [ALG0016] Part Name "STM32F030_TSSOP20_0_TSSOP20_STM32F030_TSSOP20" is renamed to "STM32F030_TSSOP20_0_TSSOP20_STM".
+Scanning netlist files ...
+
+Loading... f:\project\touch senses\schematics\allegro/pstchip.dat
+
+Loading... f:\project\touch senses\schematics\allegro/pstchip.dat
+
+Loading... f:\project\touch senses\schematics\allegro/pstxprt.dat
+
+Loading... f:\project\touch senses\schematics\allegro/pstxnet.dat
+packaging the design view...
